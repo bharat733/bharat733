@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> , I'm Bharat Sharma</h1>
 <h3 align="center">Passionate Developer</h3>
 
-<p align="center"> <a href="https://www.linkedin.com/in/bharat-kumar-sharma-0780011b4"><img src="https://img.shields.io/badge/linkedin-SagarGoyal-0077b5?style=flat-square&logo=linkedin">  </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/bharat-kumar-sharma-0780011b4"><img src="https://img.shields.io/badge/linkedin-BharatSharma-0077b5?style=flat-square&logo=linkedin">  </a> </p>
 
 
 **Languages I have used**
@@ -18,7 +18,6 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=blue)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
 <p align="center"><h2>🔥 Streak Stats</h2></p>
